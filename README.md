@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Interested in building and exploring modern products, tools, and systems.
+Currently working on a consumer product brand in the kitchen tools space.
+
+[Project Website](https://tichop.com)
+
+
 <!--
 **TiChopboard/TiChopBoard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
